@@ -1,0 +1,24 @@
+body {
+	font-family: "Helvetica";
+	font-size: 12px;
+}
+h1 {
+	font-family: "Helvetica";
+	font-size: 14px;
+}
+#plus {
+	font-family: "Helvetica";
+	color: gray;
+}
+#minus {
+	font-family: "Helvetica";
+	color: gray;
+}
+#times {
+	font-family: "Helvetica";
+	color: gray;
+}
+#per {
+	font-family: "Helvetica";
+	color:gray;
+}
